@@ -1,6 +1,6 @@
 ﻿/*---微信扫码登录二维码样式---*/
-.impowerBox .qrcode {width:100px;}
+.impowerBox .qrcode {width:100px; margin-top:5px;}
 .impowerBox .title {display:none;}
-.impowerBox .info {width:100px;}
+.impowerBox .info {width:250px;}
 .status_icon {display:none}
 .impowerBox .status {text-align:center;} 
