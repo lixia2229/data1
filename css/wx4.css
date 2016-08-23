@@ -1,0 +1,9 @@
+﻿/*---微信扫码登录二维码样式---*/
+.impowerBox .qrcode {width:150px; margin-top:5px;}
+.impowerBox .title {display:none;}
+.impowerBox .info {width:250px;}
+.status_icon {display:none}
+.status_txt p{  display:none;}
+.impowerBox .icon38_msg.succ{ background: url("https://res.wx.qq.com/connect/zh_CN/htmledition/images/icon_popup19fb81.png") 0 -31px no-repeat; background-size:cover; }
+.impowerBox .icon38_msg{ width:26px; height:26px;}
+.impowerBox .status {text-align:center;} 
